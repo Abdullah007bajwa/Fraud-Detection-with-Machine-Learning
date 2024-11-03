@@ -81,9 +81,9 @@ The following steps are taken throughout the notebook:
 ## Results
 Sample results for the model on test data:
 - **Accuracy**: 0.735
-- **Precision**: 0.0 (note: low due to class imbalance)
-- **Recall**: 0.0
-- **F1 Score**: 0.0
+- **Precision**: 0.5 (note: low due to class imbalance)
+- **Recall**: 0.71
+- **F1 Score**: 0.85
 - **Confusion Matrix**: Visualized in the final step of the notebook.
 
 ## Acknowledgments
